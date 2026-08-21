@@ -1,0 +1,62 @@
+{
+  "lookback_hours": 30,
+  "max_articles_per_topic": 10,
+  "topics": [
+    {
+      "name": "Tariffs & Pricing",
+      "weight": 3,
+      "terms": [
+        "India electricity tariff industrial",
+        "SERC tariff order India",
+        "cross subsidy surcharge India",
+        "discom tariff hike India"
+      ]
+    },
+    {
+      "name": "Open Access & Renewable Procurement",
+      "weight": 3,
+      "terms": [
+        "open access solar India C&I",
+        "green energy open access India",
+        "captive power plant India",
+        "corporate PPA renewable India"
+      ]
+    },
+    {
+      "name": "Regulatory & Policy",
+      "weight": 2,
+      "terms": [
+        "Electricity Amendment Bill India",
+        "CERC order India power",
+        "Ministry of Power India policy",
+        "market coupling power exchange India"
+      ]
+    },
+    {
+      "name": "Grid & Supply Reliability",
+      "weight": 2,
+      "terms": [
+        "India grid stability power",
+        "India peak power demand",
+        "discom power supply India",
+        "India coal power plant supply"
+      ]
+    },
+    {
+      "name": "Large Consumers (Industrial & Data Centers)",
+      "weight": 3,
+      "terms": [
+        "India large industrial power consumer",
+        "data center electricity India",
+        "steel cement power tariff India",
+        "C&I power consumers India"
+      ]
+    }
+  ],
+  "exclude_terms": [
+    "cricket",
+    "bollywood",
+    "movie review",
+    "election rally"
+  ]
+}
